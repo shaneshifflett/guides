@@ -7,7 +7,9 @@ shiffles@newschool.edu
 @shaneshifflett
 
 ### Resources
+
 [Excel tipsheet](https://drive.google.com/file/d/0B0F8GZ4RI4ZDUHpzYzUtR3dIUjA/view?usp=sharing)
+
 [Data sets for journalists](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 
 ### Where to find materials?
